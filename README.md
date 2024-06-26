@@ -11,3 +11,5 @@ El componente `Contador` es un componente que muestra el número de clics actual
 El estado del número de clics se inicializa en 0 y se actualiza cada vez que se hace clic en el botón de clics. El número de clics se incrementa en 1 cada vez que se hace clic. Cuando se hace clic en el botón de reinicio, el número de clics se establece en 0.
 
 El código utiliza React para manejar el estado y las vistas de la aplicación. Los estilos CSS se aplican a los componentes utilizando archivos separados.
+
+Link: https://camilomunozal.github.io/contador-de-clicks/
